@@ -1,8 +1,8 @@
-<h2 data-importer="text" align="left">🪽 𝒵𝑒𝓋𝓎𝓃𝓃</h2>
+<h1 data-importer="text" align="left">🪽 𝒵𝑒𝓋𝓎𝓃𝓃</h1>
 
 ###
 
-<p data-importer="text" align="left">Hey! My name is Zevynn 🌠<br>I'm learning backend development with Java, and I love creating new things, even though most of them don't work.</p>
+<h4 data-importer="text" align="left">Hey! My name is Zevynn 🌠<br>I'm learning backend development with Java, and I love creating new things, even though most of them don't work.</h4>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🛠️ 𝒯ℯ𝒸𝒽𝓃ℴ𝓁ℴℊ𝒾ℯ𝓈 𝒶𝓃𝒹 𝒯ℴℴ𝓁𝓈:</h3>
+<h2 data-importer="text" align="left">🛠️ 𝒯ℯ𝒸𝒽𝓃ℴ𝓁ℴℊ𝒾ℯ𝓈 𝒶𝓃𝒹 𝒯ℴℴ𝓁𝓈:</h2>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🌙 𝓜𝔂 𝓢𝓽𝓪𝓽𝓼</h3>
+<h2 data-importer="text" align="left">🌙 𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼</h2>
 
 ###
 
@@ -40,16 +40,16 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.pinimg.com/originals/36/19/8b/36198b95d50aab4db748e61b2bf28a6d.gif"  />
+  <img data-importer="image" height="235" src="https://i.pinimg.com/originals/36/19/8b/36198b95d50aab4db748e61b2bf28a6d.gif"  />
 </div>
 
 ###
 
-<h3 data-importer="text" align="left">💭 ℱ𝒾𝓃𝒹 𝓂ℯ</h3>
+<h2 data-importer="text" align="left">💭 ℱ𝒾𝓃𝒹 𝓂ℯ</h2>
 
 ###
 
-<div data-importer="socials" align="left">
+<div data-importer="socials" align="center">
   <a href="https://x.com/Zevynnofc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=@Zevynnofc&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>

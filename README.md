@@ -2,7 +2,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">Hey! My name is Zevynn 🌠<br>I'm learning backend development with Java, and I love creating new things, even though most of them don't work.</h4>
+<h4 data-importer="text" align="left">Hey! My name is Zevynn 🌠</h4>
 
 ###
 
@@ -33,14 +33,14 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/ZevynnDev/ZevynnDev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/ZevynnDev/ZevynnDev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/ZevynnDev/ZevynnDev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="300" width="100%" src="https://i.pinimg.com/originals/36/19/8b/36198b95d50aab4db748e61b2bf28a6d.gif"  />
+  <img data-importer="image" height="300" width="100%" src="https://i.pinimg.com/originals/66/59/d9/6659d960e03590b66214fecc7aaa9ef2.gif"  />
 </div>
 
 ###

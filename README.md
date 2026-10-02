@@ -1,62 +1,114 @@
-<h1 data-importer="text" align="left">🪽 𝒵𝑒𝓋𝓎𝓃𝓃</h1>
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                     Z E V Y N N                              ║
+  ║                  Profile README                              ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
 
-###
+<div align="center">
 
-<h4 data-importer="text" align="left">Hey! My name is Zevynn 🌠</h4>
+<!-- BANNER HU TAO -->
+<img src="https://i.pinimg.com/1200x/53/e5/f2/53e5f2d6c54561c693072fc6f68ad436.jpg" alt="Hu Tao" width="100%"/>
 
-###
+<br><br><br>
 
-<h5 data-importer="text" align="left">I'm learning Backend with Java, trying to make something that really works. 💫</h5>
+<!-- ZEVYNN -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8B0000,100:3D0000&height=150&section=header&text=Zevynn&fontSize=52&fontColor=ffffff&fontAlignY=30&animation=fadeIn" width="100%"/>
 
-###
+<br>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/ZevynnDev/ZevynnDev/snake-output/snake.svg" alt="Snake animation" />
+### 🌙 Backend · Java · Python
 
-###
+**Aprendendo, construindo e transformando ideias em código (ou tentando).**
 
-<h2 data-importer="text" align="left">🛠️ 𝒯ℯ𝒸𝒽𝓃ℴ𝓁ℴℊ𝒾ℯ𝓈 𝒶𝓃𝒹 𝒯ℴℴ𝓁𝓈:</h2>
+<br>
 
-###
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&width=500&lines=Aprendendo+backend;Tentando+n%C3%A3o+quebrar+tudo;Funcionando+%C3%A0+base+de+tentativa+e+erro" alt="Typing SVG"/>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,html,css,java,python&theme=dark" alt="Tecnologias"/>
+
 </div>
 
-###
+---
 
-<h2 data-importer="text" align="left">🌙 𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼</h2>
+## 🪐 Sobre mim
 
-###
+Oie! Sou uma desenvolvedora em formação, interessada em **backend e programação**.
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/ZevynnDev/ZevynnDev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/ZevynnDev/ZevynnDev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+Gosto de entender o que existe por trás do código, criar projetos organizados (ou não) e transformar ideias em coisas que realmente funcionem (ou melhor, que talvez funcionem).
+
+Atualmente, estou evoluindo meus fundamentos e desenvolvendo projetos para colocar esse conhecimento em prática.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+|      🧩 Área      | 🔥 Tecnologias |
+| :---------------: | :------------- |
+| **Versionamento** | Git · GitHub   |
+|   **Front-end**   | HTML5 · CSS3   |
+|  **Programação**  | Java · Python  |
+
 </div>
 
-###
+<br>
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="300" src="https://i.pinimg.com/originals/66/59/d9/6659d960e03590b66214fecc7aaa9ef2.gif"  />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,java,python,git,github&perline=6&theme=dark" alt="Tech Stack"/>
+
 </div>
 
-###
+---
 
-<h2 data-importer="text" align="left">💭 ℱ𝒾𝓃𝒹 𝓂ℯ</h2>
+## 🌙 Foco atual
 
-###
+> *“Código, café e 30 mil erros na tela...”*
 
-<div data-importer="socials" align="center">
-  <a href="https://x.com/Zevynnofc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=@Zevynnofc&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  </a>
+* 🔧 Praticar **Git e GitHub** e melhorar a organização dos projetos.
+* ☕ Evoluir em **Java** através de projetos pequenos.
+* ⚙️ Conseguir criar meu primeiro **projeto de backend**.
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZevynnDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e74c3c&icon_color=e74c3c&text_color=c9d1d9&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZevynnDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=e74c3c&text_color=c9d1d9" />
+
 </div>
 
-###
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=ZevynnDev&theme=dark&hide_border=true&background=0D1117&ring=E74C3C&fire=E74C3C&currStreakLabel=E74C3C&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 📱 Contato
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-ZevynnDev-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/ZevynnDev)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:3D0000,60:8B0000,100:0D1117&height=120&section=footer" width="100%"/>
+
+<sub>🔥 Fogo controlado, código limpo.</sub>
+
+</div>

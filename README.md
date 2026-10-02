@@ -33,14 +33,14 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/ZevynnDev/ZevynnDev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/ZevynnDev/ZevynnDev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://raw.githubusercontent.com/ZevynnDev/ZevynnDev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="300" width="50%" src="https://i.pinimg.com/originals/66/59/d9/6659d960e03590b66214fecc7aaa9ef2.gif"  />
+  <img data-importer="image" height="300" src="https://i.pinimg.com/originals/66/59/d9/6659d960e03590b66214fecc7aaa9ef2.gif"  />
 </div>
 
 ###

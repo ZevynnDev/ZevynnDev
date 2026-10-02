@@ -40,7 +40,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="100" width="100%" src="https://i.pinimg.com/originals/36/19/8b/36198b95d50aab4db748e61b2bf28a6d.gif"  />
+  <img data-importer="image" height="235" width="100%" src="https://i.pinimg.com/originals/36/19/8b/36198b95d50aab4db748e61b2bf28a6d.gif"  />
 </div>
 
 ###

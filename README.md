@@ -100,7 +100,7 @@ Atualmente, estou evoluindo meus fundamentos e desenvolvendo projetos para coloc
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ZevynnDev-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/ZevynnDev)
-[![TikTok](https://img.shields.io/badge/TikTok-@fad3dsign4l.exe-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@fad3dsign4l.exe)
+[![TikTok](https://img.shields.io/badge/TikTok-@fad3dsign4l.exe-0d1117?style=for-the-badge&logo=tiktok&logoColor=ffffff)](https://www.tiktok.com/@fad3dsign4l.exe)
 </div>
 
 <br>

@@ -33,7 +33,7 @@
 
 ---
 
-## 🪐 Sobre mim
+### 🪐 Sobre mim
 
 Oie! Sou uma desenvolvedora em formação, interessada em **backend e programação**.
 
@@ -43,7 +43,7 @@ Atualmente, estou evoluindo meus fundamentos e desenvolvendo projetos para coloc
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -65,7 +65,7 @@ Atualmente, estou evoluindo meus fundamentos e desenvolvendo projetos para coloc
 
 ---
 
-## 🌙 Foco atual
+### 🌙 Foco atual
 
 > *“Código, café e 30 mil erros na tela...”*
 
@@ -75,7 +75,7 @@ Atualmente, estou evoluindo meus fundamentos e desenvolvendo projetos para coloc
 
 ---
 
-## 📊 GitHub
+### 📊 GitHub
 
 <div align="center">
 
@@ -95,12 +95,12 @@ Atualmente, estou evoluindo meus fundamentos e desenvolvendo projetos para coloc
 
 ---
 
-## 📱 Contato
+### 📱 Contato
 
 <div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-Zevynn-B91C1C?style=flat&logo=github&logoColor=white&labelColor=09090B&color=B91C1C">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Tiktok-Zevynn-B91C1C?style=flat&logo=tiktok&logoColor=white&labelColor=09090B&color=B91C1C">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ZevynnDev-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/ZevynnDev)
-[![TikTok](https://img.shields.io/badge/TikTok-@fad3dsign4l.exe-0d1117?style=for-the-badge&logo=tiktok&logoColor=ffffff)](https://www.tiktok.com/@fad3dsign4l.exe)
 </div>
 
 <br>

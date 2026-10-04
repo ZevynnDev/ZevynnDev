@@ -98,11 +98,11 @@ Atualmente, estou evoluindo meus fundamentos e desenvolvendo projetos para coloc
 ### 📱 Contato
 
 <div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-Zevynn-B91C1C?style=flat&logo=github&logoColor=white&labelColor=09090B&color=B91C1C">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Tiktok-Zevynn-B91C1C?style=flat&logo=tiktok&logoColor=white&labelColor=09090B&color=B91C1C">
+
+<a href="https://github.com/ZevynnDev"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Zevynn-B91C1C?style=flat&logo=github&logoColor=white&labelColor=09090B&color=B91C1C"></a>&nbsp;
+<a href="https://tiktok.com/@fad3dsign4l.exe"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-Zevynn-B91C1C?style=flat&logo=tiktok&logoColor=white&labelColor=09090B&color=B91C1C"></a>
 
 </div>
-
 <br>
 
 <div align="center">

@@ -10,6 +10,7 @@
 
 
 <img src="https://terminal-identity-opal.vercel.app/api?name=Zevynn&username=ZevynnDev&role=Backend+Developer&tagline=Coffe+%3D+Code+in+progress.&status=tracking+issues+and+shipping+small+fixes&command=npm+publish&theme=obsidian%2Fcobalt&avatar=SS&pattern=rings&width=980&height=auto&showLangs=off&showContribs=on&langCount=1&stats=stars%2Cforks%2Cfollowers&barStyle=dots&motion=scan&contribTheme=signal" width="100%" alt="Terminal identity card" />
+
 ---
 
 ### 🔷 Tech Stack

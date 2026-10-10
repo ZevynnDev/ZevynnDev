@@ -1,114 +1,64 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║                     Z E V Y N N                              ║
-  ║                  Profile README                              ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&fontColor=F3F4F6&text=Zevynn&animation=fadeIn&height=200&fontAlignY=35">
+</div>
 
 <div align="center">
-
-<!-- BANNER HU TAO -->
-<img src="https://i.pinimg.com/1200x/53/e5/f2/53e5f2d6c54561c693072fc6f68ad436.jpg" alt="Hu Tao" width="100%"/>
-
-<br><br><br>
-
-<!-- ZEVYNN -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8B0000,100:3D0000&height=150&section=header&text=Zevynn&fontSize=52&fontColor=ffffff&fontAlignY=30&animation=fadeIn" width="100%"/>
-
-<br>
-
-### 🌙 Backend · Java · Python
-
-**Aprendendo, construindo e transformando ideias em código (ou tentando).**
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&width=500&lines=Aprendendo+backend;Tentando+n%C3%A3o+quebrar+tudo;Funcionando+%C3%A0+base+de+tentativa+e+erro" alt="Typing SVG"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,html,css,java,python&theme=dark" alt="Tecnologias"/>
-
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3500&pause=1000&color=7DD3FC&width=435&lines=%3E+Initializing+ZevynnDev.exe.+.+.;%3E+Loading+Java+projects.+.+.;%3E+Loading+backend+dev+workspace.+.+.;%3E+System+ready!_" alt="Typing SVG" /></a>
 </div>
 
 ---
 
-### 🪐 Sobre mim
 
-Oie! Sou uma desenvolvedora em formação, interessada em **backend e programação**.
-
-Gosto de entender o que existe por trás do código, criar projetos organizados (ou não) e transformar ideias em coisas que realmente funcionem (ou melhor, que talvez funcionem).
-
-Atualmente, estou evoluindo meus fundamentos e desenvolvendo projetos para colocar esse conhecimento em prática.
+<img src="https://terminal-identity-opal.vercel.app/api?name=Zevynn&username=ZevynnDev&role=Backend+Developer&tagline=Coffe+%3D+Code+in+progress.&status=tracking+issues+and+shipping+small+fixes&command=npm+publish&theme=obsidian%2Fcobalt&avatar=SS&pattern=rings&width=980&height=auto&showLangs=off&showContribs=on&stats=stars%2Cforks%2Cfollowers&barStyle=dots&motion=scan&contribTheme=signal" width="100%" alt="Terminal identity card" />
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-
-|      🧩 Área      | 🔥 Tecnologias |
-| :---------------: | :------------- |
-| **Versionamento** | Git · GitHub   |
-|   **Front-end**   | HTML5 · CSS3   |
-|  **Programação**  | Java · Python  |
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,java,python,git,github&perline=6&theme=dark" alt="Tech Stack"/>
-
-</div>
+### 🔷 Tech Stack
+<img src="https://skillicons.dev/icons?i=java,python,git,github,postgres"/>
 
 ---
 
-### 🌙 Foco atual
 
-> *“Código, café e 30 mil erros na tela...”*
+### 💠 Projects
 
-* 🔧 Praticar **Git e GitHub** e melhorar a organização dos projetos.
-* ☕ Evoluir em **Java** através de projetos pequenos.
-* ⚙️ Conseguir criar meu primeiro **projeto de backend**.
+> *Building things, learning from mistakes, and improving one commit at a time.*
 
----
-
-### 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZevynnDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e74c3c&icon_color=e74c3c&text_color=c9d1d9&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZevynnDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=e74c3c&text_color=c9d1d9" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=ZevynnDev&theme=dark&hide_border=true&background=0D1117&ring=E74C3C&fire=E74C3C&currStreakLabel=E74C3C&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
-
-</div>
+🔹 **[Task Manager API](https://github.com/ZevynnDev/task-manager-api)** - `Java` · `Backend Development`
 
 ---
 
-### 📱 Contato
+
+### 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/ZevynnDev"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Zevynn-B91C1C?style=flat&logo=github&logoColor=white&labelColor=09090B&color=B91C1C"></a>&nbsp;
-<a href="https://tiktok.com/@fad3dsign4l.exe"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-Zevynn-B91C1C?style=flat&logo=tiktok&logoColor=white&labelColor=09090B&color=B91C1C"></a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ZevynnDev&show_icons=true&bg_color=111827&title_color=7DD3FC&text_color=9CA3AF&icon_color=2563EB&border_color=1F2937" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZevynnDev&layout=compact&bg_color=111827&title_color=7DD3FC&text_color=9CA3AF&border_color=1F2937" alt="Top Languages">
 </div>
-<br>
+
+
+
+
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:3D0000,60:8B0000,100:0D1117&height=120&section=footer" width="100%"/>
-
-<sub>🔥 Fogo controlado, código limpo.</sub>
-
+<h3>🫧 Contact me</h3>
+  <p>
+  <a href="https://github.com/ZevynnDev"><img src="https://img.shields.io/badge/Github-Zevynn-7DD3FC?style=flat&logo=github&label=Github" alt="GitHub"></a>&nbsp;
+  <a href="mailto:ZevynnDev@gmail.com"><img src="https://img.shields.io/badge/Gmail-Zevynn-7DD3FC?style=flat&logo=gmail&label=Gmail" alt="Gmail"></a>
+</p>
 </div>
+
+
+
+--- 
+
+
+<div align="center">
+  <code>☕ Coffee = Code in progress.</code>
+  <br><br>
+  <sub>Made with curiosity and a little bit of caffeine. 🩵</sub>
+</div>
+
+
+
+

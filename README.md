@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&fontColor=F3F4F6&text=Zevynn&animation=fadeIn&height=200&fontAlignY=35">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&fontColor=F3F4F6&text=Nixie&animation=fadeIn&height=200&fontAlignY=35">
 </div>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Makcasa&duration=3500&pause=1000&width=435&lines=ZEVYNN+%E2%80%A2+DEV;BACKEND+DEVELOPER;JAVA+%E2%80%A2+POSTGRESQL+%E2%80%A2+GIT;COFFEE+%E2%80%A2+CHILL+%E2%80%A2+MUSIC+%E2%80%A2+RAIN+%E2%80%A2+VIBES" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Makcasa&duration=3500&pause=1000&width=435&lines=NIXIE+%E2%80%A2+DEV;BACKEND+DEVELOPER;JAVA+%E2%80%A2+POSTGRESQL+%E2%80%A2+GIT;COFFEE+%E2%80%A2+CHILL+%E2%80%A2+MUSIC+%E2%80%A2+RAIN+%E2%80%A2+VIBES" alt="Typing SVG" /></a>
 </div>
 
 ---
 
 
-<img src="https://terminal-identity-opal.vercel.app/api?name=Zevynn&username=ZevynnDev&role=Backend+Developer&tagline=☕+Coffee+%3D+Code+in+progress.&status=tracking+issues+and+shipping+small+fixes&command=npm+publish&theme=obsidian%2Fcobalt&avatar=SS&pattern=rings&width=980&height=auto&showLangs=off&showContribs=on&langCount=1&stats=stars%2Cforks%2Cfollowers&barStyle=dots&motion=scan&contribTheme=signal" width="100%" alt="Terminal identity card" />
+<img src="https://terminal-identity-opal.vercel.app/api?name=Nixie&username=ZevynnDev&role=Backend+Developer&tagline=☕+Coffee+%3D+Code+in+progress.&status=tracking+issues+and+shipping+small+fixes&command=npm+publish&theme=obsidian%2Fcobalt&avatar=SS&pattern=rings&width=980&height=auto&showLangs=off&showContribs=on&langCount=1&stats=stars%2Cforks%2Cfollowers&barStyle=dots&motion=scan&contribTheme=signal" width="100%" alt="Terminal identity card" />
 
 ---
 
@@ -43,7 +43,7 @@
 <div align="center">
 <h3>🫧 Contact me</h3>
   <p>
-  <a href="https://github.com/ZevynnDev"><img src="https://img.shields.io/badge/Github-Zevynn-7DD3FC?style=flat&logo=github&label=Github" alt="GitHub"></a>&nbsp;
+  <a href="https://github.com/ZevynnDev"><img src="https://img.shields.io/badge/Github-Nixie-7DD3FC?style=flat&logo=github&label=Github" alt="GitHub"></a>&nbsp;
   <a href="mailto:ZevynnDev@gmail.com"><img src="https://img.shields.io/badge/Gmail-Zevynn-7DD3FC?style=flat&logo=gmail&label=Gmail" alt="Gmail"></a>
 </p>
 </div>

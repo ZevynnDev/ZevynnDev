@@ -41,7 +41,7 @@
   <h3>Contact me</h3>
   <p>
     <a href="https://github.com/liamxmp4"><img src="https://img.shields.io/badge/GitHub-Liam-181818?style=flat&logo=github&logoColor=FFFFFF&labelColor=000000" alt="GitHub"></a>&nbsp;
-    <a href="mailto:ZevynnDev@gmail.com"><img src="https://img.shields.io/badge/Gmail-Liam-181818?style=flat&logo=gmail&logoColor=FFFFFF&labelColor=000000" alt="Gmail"></a>
+    <a href="mailto:liamxmp4@gmail.com"><img src="https://img.shields.io/badge/Gmail-Liam-181818?style=flat&logo=gmail&logoColor=FFFFFF&labelColor=000000" alt="Gmail"></a>
   </p>
 </div>
 
